@@ -1,6 +1,6 @@
 ### Olá Pessoal,
 
-Meu nome é Fernanda, mas pode me chamar de Fê, me formei no curso de Desenvolvimento de Software em junho de 2022 e estou apaixonada com esse universo de programação
+Meu nome é Fernanda, mas pode me chamar de Fê, me formei no curso de Desenvolvimento de Software na Cubos Academy em junho de 2022 e estou apaixonada com o universo de programação.
 
 Esse perfil foi criado para adicionar todos os projetos desenvolvidos no curso e os próximos que virão.
 
@@ -9,6 +9,7 @@ Esse perfil foi criado para adicionar todos os projetos desenvolvidos no curso e
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-aguiar-00b27697/)
 
 ### 💻 Hards Skills
+
 ![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
