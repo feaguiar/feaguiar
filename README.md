@@ -1,6 +1,6 @@
 ### Olá Pessoal,
 
-Meu nome é Fernanda, mas pode me chamar de Fê, me formei no curso de Desenvolvimento de Software na Cubos Academy em junho de 2022 e estou apaixonada com o universo de programação.
+Meu nome é Fernanda, mas pode me chamar de Fê, me formei no curso de Desenvolvimento de Software na Cubos Academy em julho de 2022 e estou apaixonada com o universo de programação.
 
 Esse perfil foi criado para adicionar todos os projetos desenvolvidos no curso e os próximos que virão.
 
